@@ -1,1 +1,3 @@
 redis_wx
+mysql_wx
+wechatpadpro
