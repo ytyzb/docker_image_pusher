@@ -1,1 +1,2 @@
-redis_wx
+mysql:8.0
+redis:alpine
